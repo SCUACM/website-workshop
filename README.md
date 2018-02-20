@@ -21,12 +21,11 @@ You can find more information and details on how to create a website through git
 Lucky for us, the Engineering Computing Center gives SCU Engineering students free webpages!
 You can learn more about it here : http://wiki.helpme.engr.scu.edu/index.php/Webpage
 
-## Other Resources
+## Resources
 ### Bootstrap
 Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. You can use Bootstrap templates to create your own website!
 You can find the templates here : https://getbootstrap.com/
-
-   
-
-
+### References
+   1. [HTML Reference About Tags, Color, and More!](https://www.w3schools.com/html/default.asp)
+   2. [CSS Reference About Properties and Selectors!](https://www.w3schools.com/html/default.asp)
 
